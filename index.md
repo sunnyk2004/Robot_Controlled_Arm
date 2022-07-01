@@ -3,7 +3,7 @@ This project is a robot arm that is controlled via your smartphone. It can compl
 
 | Sundeep Kalidindi | Dublin High School | Computer Science | Incoming Senior
 
-![Headstone Image](https://ibb.co/VScqkts)
+![Headstone Image](https://ibb.co/ZWN0TsR)
   
 # Final Milestone
 My final milestone for this project was to connect the mobile device and the robot. I managed to finish all the programming and paired it to my Android device through the HC05 bluetooth module. I ran into one major problems which was that an IOS device was unable to support the code so I had to use an Android in order for it to work properly. Once the code was connected properly, all the controls were working and the robot could move however I want it to. Additionally, I wanted to further add modifications to the project. I ended up connecting a PS2 controller with joystick sensors to the robotic arm. The controller used joysticks to move the robot and it did the same thing as the mobile app. I had to program a different file of code for the controller because it was different from the mobile app. An obstacle that appeared during milestone three was that one of my servos was screwed on too tight. This prevented the robot arm from going up and down. To fix this I had to dismantle some of the robot so I can loosen the servo. By the end of the milestone I had successfully completed the project and even added an extra modification.
