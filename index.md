@@ -3,7 +3,7 @@ This project is a robot arm that is controlled via your smartphone. It can compl
 
 | Sundeep Kalidindi | Dublin High School | Computer Science | Incoming Senior
 
-![Headstone Image](<a href="https://ibb.co/ZWN0TsR"><img src="https://i.ibb.co/4PJHNyw/unnamed-1.jpg" alt="unnamed-1" border="0"></a>)
+(<a href="https://ibb.co/ZWN0TsR"><img src="https://i.ibb.co/4PJHNyw/unnamed-1.jpg" alt="unnamed-1" border="0"></a>)
 
 ```#include <Servo.h>
 Servo myservo1;  // create servo object to control a servo
